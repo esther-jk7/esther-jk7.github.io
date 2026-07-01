@@ -2,7 +2,7 @@
 layout: page
 title: Healthcare Agentic RAG
 description: Production multi-agent clinical Q&A system — deployed on HuggingFace Spaces
-img: assets/img/prof_pic.jpg
+img: assets/img/healthcare_rag.png
 importance: 1
 category: work
 ---
