@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Esther_Suravarapu_Resume.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
+cv_format: jsonresume # options: rendercv, jsonresume
 description:
 toc:
   sidebar: left
